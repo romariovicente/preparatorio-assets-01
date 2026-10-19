@@ -1,0 +1,738 @@
+{
+  "repository": "romariovicente/preparatorio-assets-01",
+  "files": [
+    {
+      "path": "/assets/additions20261016/EDU_Kidney_Urinary_20261016.png",
+      "bytes": 290309,
+      "sha256": "fbfe222ff6f60ffe68955ad997de2f13bcd6d3a91d622cf2811d425f4fafddfd",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/EDU_Kidney_Urinary_20261016.png"
+    },
+    {
+      "path": "/assets/additions20261016/EDU_Lungs_20261016.png",
+      "bytes": 289174,
+      "sha256": "88b71f270a609cdfc13d62ee7f1d66d94557ba0d0cb2d6682e36373d0cff20c0",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/EDU_Lungs_20261016.png"
+    },
+    {
+      "path": "/assets/additions20261016/EDU_Spine_Torso_RibCage_20261016.glb",
+      "bytes": 1723836,
+      "sha256": "a86c3ce02b226083d2616e19cba76f9f4e63b3f794ec99ec252772f2fcbb2135",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/EDU_Spine_Torso_RibCage_20261016.glb"
+    },
+    {
+      "path": "/assets/additions20261016/FAUNA_FOX_20261016.glb",
+      "bytes": 3282164,
+      "sha256": "60eacb52b55ae5cf9e2d78b95c1c03eabe121b8fcac0d186a43dec927a49b17d",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/FAUNA_FOX_20261016.glb"
+    },
+    {
+      "path": "/assets/additions20261016/FAUNA_HORSE_20261016_PBR.jpg",
+      "bytes": 20385,
+      "sha256": "b561f7b709cbaa3f058b17a2e456134bff23a9697bae9942b4d8bcdd99f78885",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/FAUNA_HORSE_20261016_PBR.jpg"
+    },
+    {
+      "path": "/assets/additions20261016/FAUNA_MEGALODON_20261016.glb",
+      "bytes": 33835776,
+      "sha256": "3c708fae2dc95527c59d4ede869095c44d08d59c99f745c15450d95f6178a216",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/FAUNA_MEGALODON_20261016.glb"
+    },
+    {
+      "path": "/assets/additions20261016/FAUNA_MEGALODON_20261016.jpg",
+      "bytes": 11134,
+      "sha256": "657019725d6412a9bbe1d91dcb1c718e0a3225e5cc90807f2796ba06c46b6a7d",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/FAUNA_MEGALODON_20261016.jpg"
+    },
+    {
+      "path": "/assets/additions20261016/FAUNA_RABBIT_20261016_PBR.jpg",
+      "bytes": 22640,
+      "sha256": "6586e99b86e8bd11996052837de05ff45c2914213c987974c4d6c2904d69fcc0",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/FAUNA_RABBIT_20261016_PBR.jpg"
+    },
+    {
+      "path": "/assets/additions20261016/FAUNA_WOLF_20261016.glb",
+      "bytes": 7904532,
+      "sha256": "6aa5cdb58bf86374e8bbf6912e228f8a6994e1c4535ee2a76de9f297df580768",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/FAUNA_WOLF_20261016.glb"
+    },
+    {
+      "path": "/assets/additions20261016/FAUNA_WOLF_20261016_PBR.jpg",
+      "bytes": 19097,
+      "sha256": "6d3b4d3b596fcc7b03891e834ee9261ece339257ae869ffde1f14784130b0048",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/FAUNA_WOLF_20261016_PBR.jpg"
+    },
+    {
+      "path": "/assets/additions20261016/TRAIN_Centraal_Station_LOD1_20261016.glb",
+      "bytes": 27669260,
+      "sha256": "cfa3b6650335304077e8fc1e76999b92c8bc1cf58c2b3404acfb4f4932b94e9c",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/TRAIN_Centraal_Station_LOD1_20261016.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_corrupted_fallen_priest___dar_Actions_v3.glb",
+      "bytes": 6147988,
+      "sha256": "ec2b6485a636903a9319690397604c07b1c9ed13843057bebad99c48ceb68a53",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_corrupted_fallen_priest___dar_Actions_v3.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_dark_necromancer___corrupted_staff___Actions_v3.glb",
+      "bytes": 5624176,
+      "sha256": "fc7efb0bd061a4a7417f097c2ce06cd214a49d26588f1872f3b30961faa739ba",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_dark_necromancer___corrupted_staff___Actions_v3.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_dark_necromancer___corrupted_staff___Rig_v2.glb",
+      "bytes": 5594880,
+      "sha256": "30e05a1309ca4d9043e2e3a79ec07e6c1d52e725745cef3ab965250669456585",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_dark_necromancer___corrupted_staff___Rig_v2.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_japanese_school_girl_v25_Rig_v2.glb",
+      "bytes": 2553576,
+      "sha256": "16625e47954ba9c055efb1bfd22f29601c6e83a91e05e55eb89604cdec436739",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_japanese_school_girl_v25_Rig_v2.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Rig_v2.glb",
+      "bytes": 3515608,
+      "sha256": "b7485ca8b45af4929a2f13597b5fab778b59795144bbba94a6d5b285eaa84833",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Rig_v2.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_woman_seated_v15_Rig_v2.glb",
+      "bytes": 2644576,
+      "sha256": "61aca9a9ef8560a6f6d07a9e5b47cd36bd2be856069908427d48e5097700acbf",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_woman_seated_v15_Rig_v2.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_woman_standing_v38__eko_Rig_v2.glb",
+      "bytes": 2392548,
+      "sha256": "9eed76dd881343ee5b1307a035c168f0a6debc591b6808660f6902bf32118bdf",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_woman_standing_v38__eko_Rig_v2.glb"
+    },
+    {
+      "path": "/assets/cyber/CHR_PREP_Nurse_Coat_20261005.glb",
+      "bytes": 2922796,
+      "sha256": "481fbc97937a692199410ff0ad22bd3c2534d411888bf65c20db7cc0cbfe0c00",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/CHR_PREP_Nurse_Coat_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/ENV_Biome_amazon_20261005.glb",
+      "bytes": 4142556,
+      "sha256": "676df7f59b396d565b7ee0c93182268541aca17c842a02a6fc06467f8b54b63f",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/ENV_Biome_amazon_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/ENV_Biome_ocean_20261005.glb",
+      "bytes": 3491568,
+      "sha256": "e4087a593c706f8e6bc6692e65d6f4f72b04871b86f2102d86dc06a1dd828931",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/ENV_Biome_ocean_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_bench_20261005.glb",
+      "bytes": 42044,
+      "sha256": "43a94c56ec6f08688e97de2c6916d9663d89cddaf9c13423859db44d9f188e21",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_bench_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_bus_20261005.glb",
+      "bytes": 153048,
+      "sha256": "84eab95b4965e6331ca88b6a41adabc128fc33a7f86e8b424d2c3ca1f839ee47",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_bus_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_bus_scene_20261005.glb",
+      "bytes": 118380,
+      "sha256": "993046a1edc7a5d0e846da5e297c25788969135dd165d6ab45c61e0e694d89b6",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_bus_scene_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_fish-blue_20261005.glb",
+      "bytes": 47796,
+      "sha256": "6d773e99c91e6ac0f6dd951279e25f56c426cadaeb9ea1eab2f043f4ca291dec",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_fish-blue_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_fish-red_scene_20261005.glb",
+      "bytes": 13208,
+      "sha256": "b7fbf11817f35392f00e8d3ef42a5bba60361e55490b47f91175e6ba23f26b32",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_fish-red_scene_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_fishing-rod_scene_20261005.glb",
+      "bytes": 7996,
+      "sha256": "714b5644308caec939b735df243d7b3b6cdb51214a9180de0921e242764f0a8c",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_fishing-rod_scene_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_harvester_scene_20261005.glb",
+      "bytes": 33464,
+      "sha256": "1098ba965a08c7dd44e4a0581134312b69d3ef5bacb30721b187e0de7efc8f0f",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_harvester_scene_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_mototaxi_scene_20261005.glb",
+      "bytes": 60084,
+      "sha256": "c3fff0662f1020f64d2569ceb961a85eda0768c17c249cdbd952c4075af895a9",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_mototaxi_scene_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_truck-trailer-box_scene_20261005.glb",
+      "bytes": 29764,
+      "sha256": "a82aecfa25a94bf2cf9c49621b098de66f100efefc9af0e7d139cac5119c6b47",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_truck-trailer-box_scene_20261005.glb"
+    },
+    {
+      "path": "/assets/cyber/PROP_truck_20261005.glb",
+      "bytes": 79088,
+      "sha256": "25b8251f2d8fbb8d0d6504328c588a5bb662dd0e2bb80f85537422f3d4be70f0",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/cyber/PROP_truck_20261005.glb"
+    },
+    {
+      "path": "/assets/environments/ENV_Hospital_Reception_Module_20261015.glb",
+      "bytes": 4754600,
+      "sha256": "1b0affd104ab52ed4c007daa00794f12530b7e598617de4f836717bdc21f7b98",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/environments/ENV_Hospital_Reception_Module_20261015.glb"
+    },
+    {
+      "path": "/assets/models/MAP_Preparatorio_Island_Web.glb",
+      "bytes": 7187072,
+      "sha256": "d5851b11850f4f7d28cbd32f0560a7e6797913de8844ef596ccf237db58e2ef8",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/models/MAP_Preparatorio_Island_Web.glb"
+    },
+    {
+      "path": "/assets/models/MOD_Balcony_01.glb",
+      "bytes": 31144,
+      "sha256": "dd7955bf79a6411b05e5e97ed24654c6d48324385a5a00ba05d17a8754e8b11f",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/models/MOD_Balcony_01.glb"
+    },
+    {
+      "path": "/assets/models/MOD_Beam_01.glb",
+      "bytes": 7844,
+      "sha256": "f3b46a4d22f8960ac83169a3543d2a1ff72619beb3608f8e49424a5d04f5b5c9",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/models/MOD_Beam_01.glb"
+    },
+    {
+      "path": "/assets/models/MOD_Corner_Inner_01.glb",
+      "bytes": 12112,
+      "sha256": "c1c8bc6ec4be7ce94ddc01b4b627b455fc66d24924a542893fe64860bdeb9c4b",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/models/MOD_Corner_Inner_01.glb"
+    },
+    {
+      "path": "/assets/models/MOD_Roof_01.glb",
+      "bytes": 14484,
+      "sha256": "dc2566c977b8ced5f9c7914e2bc6236e117d6d51954bd37495f024296dadda97",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/models/MOD_Roof_01.glb"
+    },
+    {
+      "path": "/assets/models/MOD_Sidewalk_Corner_01.glb",
+      "bytes": 7616,
+      "sha256": "87754084384dee9c1815840f10a0fba8d8a9c79fd830ee48dd62671e51546ebb",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/models/MOD_Sidewalk_Corner_01.glb"
+    },
+    {
+      "path": "/assets/models/server_housing.glb",
+      "bytes": 577980,
+      "sha256": "3b9842c882ee65cbc5b397c63771eadbae173517d913431adcdb9ee80618593d",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/models/server_housing.glb"
+    },
+    {
+      "path": "/assets/monuments/PROP_Brain_Real_20261005.glb",
+      "bytes": 3339936,
+      "sha256": "3e2adcd24dffb69e80af78a93d50e8b8256521191977c062f0cfe6a7cd4336de",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/monuments/PROP_Brain_Real_20261005.glb"
+    },
+    {
+      "path": "/assets/monuments/PROP_Florence_Nightingale_Real_20261005.glb",
+      "bytes": 8550744,
+      "sha256": "1adb56df3433c0c17928bf2656ab74332c7f8b64231f37f9d4c94156e5079488",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/monuments/PROP_Florence_Nightingale_Real_20261005.glb"
+    },
+    {
+      "path": "/assets/new-delivery/BLD_Bus_Terminal_20261006.preview.png",
+      "bytes": 391665,
+      "sha256": "5782e1e972e3766f5e134f8fcfc018e7c4e5543df0a2b967c283be097581baa8",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/new-delivery/BLD_Bus_Terminal_20261006.preview.png"
+    },
+    {
+      "path": "/assets/new-delivery/CHAR_Student_XVIII_20261006.preview.png",
+      "bytes": 433444,
+      "sha256": "c6dc58cc285625cc7daf6b2360df8e715c37d285393dfddeb84babb692cb6e14",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/new-delivery/CHAR_Student_XVIII_20261006.preview.png"
+    },
+    {
+      "path": "/assets/new-delivery/EDU_Anatomy_XRay_20261006.LICENSE.txt",
+      "bytes": 2129,
+      "sha256": "eae0eb11a4a54adadf4ba3edd823dddbc9a87f492d09c7dc31c66da4d2a2c4e8",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/new-delivery/EDU_Anatomy_XRay_20261006.LICENSE.txt"
+    },
+    {
+      "path": "/assets/supplied/SUP_2010_mercedes_sls_amg.glb",
+      "bytes": 10404120,
+      "sha256": "0a7d0012bfd24ac60fc5afa2ff8dd45146a5ebd1ddb1e577fa0777f5c6a47f1f",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_2010_mercedes_sls_amg.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_2020__mercedes_avtr_concept__thanks_100k_wiew.jpg",
+      "bytes": 13422,
+      "sha256": "9e6d91b6b72419a191939a39d56354e3ee86ce745692b6649560797c258bfeac",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_2020__mercedes_avtr_concept__thanks_100k_wiew.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_2022_volkswagen_saveiro_1.6_robust.glb",
+      "bytes": 9846908,
+      "sha256": "53a17a07f3c29b4d8009e3ce2ba03f14e483192b656068a1c528c69646341ba7",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_2022_volkswagen_saveiro_1.6_robust.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_2024_gmc_sierra_1500_at4x.glb",
+      "bytes": 24756336,
+      "sha256": "15b30e7ef2314aca561337b3742ad99b280010f9f4ac21c5457d9a609346f0c5",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_2024_gmc_sierra_1500_at4x.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_2024_volkswagen_teramont_3.6_hi.jpg",
+      "bytes": 16690,
+      "sha256": "cb67969e238ecfd5df9888afe3b42dda8256b46c8b2ad3d2d2363ea91054ea6f",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_2024_volkswagen_teramont_3.6_hi.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_2025_Rolls_Royce_Cullinan_Mansory.jpg",
+      "bytes": 12626,
+      "sha256": "6baed4002a2606d6bc1ae1b4e46d6fd932f34ea413b8bca0552df30464dea90b",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_2025_Rolls_Royce_Cullinan_Mansory.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_9f5f51f18e4c487b9e4d1643ff36acd3.glb",
+      "bytes": 11253708,
+      "sha256": "5aef0f4f03e865eb1d72c27592e79593edee746f61a56f62cb13b6c04a1c30f2",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_9f5f51f18e4c487b9e4d1643ff36acd3.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_apc_at6.jpg",
+      "bytes": 17935,
+      "sha256": "32eb5d8c599fd26b49edfd6d37ea7abec2ce3811c2a6abb268c93d99a1beb6e6",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_apc_at6.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_asian_billboards_signboards_kit.jpg",
+      "bytes": 13125,
+      "sha256": "d10a4fbd830a36545555785589fc443606657f15879573f355981891e47641c5",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_asian_billboards_signboards_kit.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_atm_12_mb.glb",
+      "bytes": 679264,
+      "sha256": "a40383cd03342b75f6b7250d64c916d365f94417afe2f30ad6cb9b1668785f29",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_atm_12_mb.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_atm_12_mb.jpg",
+      "bytes": 11828,
+      "sha256": "049659857ae0041d9c3b3e2785707a954789c4833dd602e86d058c384dce2a53",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_atm_12_mb.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_bone_seraph_skeletal_angel.glb",
+      "bytes": 3680772,
+      "sha256": "57b691b0b79be959c95c88a4f7feba313c4cd24d71ebd3eae87d4f2ede819cf1",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_bone_seraph_skeletal_angel.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_bugatti_chiron_mansory.jpg",
+      "bytes": 14564,
+      "sha256": "18f473a8771b53c3134f8661310354a7c8000899abc1fc883e04e26251f6f27e",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_bugatti_chiron_mansory.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_character_cyberpunk_free_3d_by_oscar_cre_BodyRig.glb",
+      "bytes": 102809004,
+      "sha256": "604b0a811d7a47ec00ad250370bd0a45b3a0ece1bfc03cd632d14aa302e3e550",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_character_cyberpunk_free_3d_by_oscar_cre_BodyRig.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_circuit_de_spa_francorchamps_2022_layout.glb",
+      "bytes": 23567100,
+      "sha256": "9bee83dbd08c7c8104fb0633c74d6a116b91372a241ae90dcf058d87b58cd2a9",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_circuit_de_spa_francorchamps_2022_layout.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_city_at_night_low_poly_skyscrapers.glb",
+      "bytes": 4427184,
+      "sha256": "05cf4b38cb76a5acd9c7257eaebf1aaa859188284dc53976b61dd4709b107430",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_city_at_night_low_poly_skyscrapers.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Clone_Human_Sleep_Module_Lab.glb",
+      "bytes": 16846868,
+      "sha256": "e141e2c29fde2496627653c9a6726431bc54d6ed34811b6fceba4ab3d8a65f3a",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Clone_Human_Sleep_Module_Lab.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_club_car_cru.glb",
+      "bytes": 14463480,
+      "sha256": "f247c433450e936b7330344248341579fb58b11c3ce1e25083d64dea015693b8",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_club_car_cru.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_club_car_cru.jpg",
+      "bytes": 21636,
+      "sha256": "c25dbbcf5027a4c0b753c00b36e3c2d460bb2c56236873e21e576c65ac6d4d43",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_club_car_cru.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_cyberpunk___monobike_sketchfab_challenge.jpg",
+      "bytes": 23707,
+      "sha256": "7a22218c7884bd065e0e3f29eccd412f427833dad37be7eaa59d780f105dcb4a",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_cyberpunk___monobike_sketchfab_challenge.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_cyberpunk_background_appartment_building.jpg",
+      "bytes": 55338,
+      "sha256": "03e1c9677ae13e4a4997a68a84e6e2f50baad8b892bfcadb7e81fec17a53b02a",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_cyberpunk_background_appartment_building.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_cyberpunk_city.jpg",
+      "bytes": 22926,
+      "sha256": "caeb9933e70f5c8f266b291f19984828e3b599012349fa18f38b31580683045c",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_cyberpunk_city.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_cyberpunk_enigma___katana.jpg",
+      "bytes": 7397,
+      "sha256": "c741559026089265eaa28798bb6c327f4673f6e2348d69e7d6f7acc8dd5ecb90",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_cyberpunk_enigma___katana.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_cyberpunk_lamborghini_terzo.glb",
+      "bytes": 12436524,
+      "sha256": "eed4acbffc63aa06086a1957d744e06129ce4a484b0c1a78e354ec780640b777",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_cyberpunk_lamborghini_terzo.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_cyberpunk_slums_scene.glb",
+      "bytes": 29822700,
+      "sha256": "e76033faba4bf402c17301c844ab84d1a9c3800b833a17f58c2cf7f1174db5f5",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_cyberpunk_slums_scene.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_cyberpunk_slums_scene.jpg",
+      "bytes": 38120,
+      "sha256": "769e3517460c9075ab1edb516c1ce88648172eaadfc25c619946f057f2b7b4f5",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_cyberpunk_slums_scene.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_cyberpunk_tv_pillar.glb",
+      "bytes": 1003972,
+      "sha256": "12d1081c9041b81f7dff5eb91774d6cb2d06f42453c1d3703cbd86fc6b897214",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_cyberpunk_tv_pillar.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_dark_necromancer___corrupted_staff__.glb",
+      "bytes": 4170892,
+      "sha256": "47ba51db267dce570b7619e5ae124040071417613cb08e9dc4d26d8a380c75a1",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_dark_necromancer___corrupted_staff__.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_dark_necromancer___corrupted_staff__.jpg",
+      "bytes": 19348,
+      "sha256": "82861e5e3d7a0022f9f6def0eefecf7fb9cc2ecc6fc9ad6407c1cf75842ac1a2",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_dark_necromancer___corrupted_staff__.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_doctor_horror_hospital.jpg",
+      "bytes": 15115,
+      "sha256": "82423fbf7d871b1e1e133eebd37773e7fe113310d829cc8d13f4033f2345faf7",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_doctor_horror_hospital.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_drone_scout.glb",
+      "bytes": 2807268,
+      "sha256": "f852fa8833df001fe5faf8f4ccd188b6744c63bcd98ccd515540e8f502e4d4ac",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_drone_scout.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_esqueleto.jpg",
+      "bytes": 14001,
+      "sha256": "138d4aa9fd0e2d7f3ca35ed5064426198e8e7e14fdc743c44eefe60d28a05e96",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_esqueleto.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_futuristic_hover_car.jpg",
+      "bytes": 16285,
+      "sha256": "b8147283bee24b6b358891c372b99f9266dec7cf029038f716b4c7c2dfb625a3",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_futuristic_hover_car.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Futuristic_Spaceship.jpg",
+      "bytes": 15690,
+      "sha256": "d643dc8bb8bcbdc51aa074109215b43a06230e476c4e512740b4271f7d622a65",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Futuristic_Spaceship.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Hackney_“Black_Cab_AGV.glb",
+      "bytes": 9391340,
+      "sha256": "12cf850938a127fb02b746a8538ca74bc2a9f66c3036cd9545b978cc40d0e2eb",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Hackney_“Black_Cab_AGV.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Hackney_“Black_Cab_AGV.jpg",
+      "bytes": 16451,
+      "sha256": "364a1b4eb054806b14bc168a1534bc27d8e7eb17d5dcd04bc811886f8c037492",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Hackney_“Black_Cab_AGV.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_halo_4spartan_opsmission_9_infinity.glb",
+      "bytes": 15382140,
+      "sha256": "eeea161d5c42bfbff099bc3494f6f56ad5a2e3899912364215215f0d803f25d6",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_halo_4spartan_opsmission_9_infinity.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_halo_4spartan_opsmission_9_infinity.jpg",
+      "bytes": 13601,
+      "sha256": "31fcef0ceabc1af3e65aec895ecbd9e5e7694d5004ad940bfb70f9109fc396e8",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_halo_4spartan_opsmission_9_infinity.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_halo_5_guardians_forerunner_phaeton.glb",
+      "bytes": 1376356,
+      "sha256": "ae63b18903425de1a07fe3706fb3e35f8c6543ba0d79a129b9dfb3d18d97fa38",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_halo_5_guardians_forerunner_phaeton.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_hong_kong_signs_pack.glb",
+      "bytes": 6746020,
+      "sha256": "bb20a4dc9fc2f0a91f4dd35cb2ce86d916f41960046e864243bc3115df65f58e",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_hong_kong_signs_pack.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_hospital_02.jpg",
+      "bytes": 21319,
+      "sha256": "44d3983da79db513ef163de77aef7e6319edcde581030974314938466bcc47da",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_hospital_02.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_hospital_03.jpg",
+      "bytes": 17830,
+      "sha256": "d568d7bdce88bbd91864be2c9f2ba83e04ff4e1f8cb798b38f3b789a14cdd258",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_hospital_03.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_kit_hospital.jpg",
+      "bytes": 43887,
+      "sha256": "d03676a0a0a2d33502cf9453cf2b6f1b938cb00181507df9d12471a6b9e93d2c",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_kit_hospital.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_lowpoly_anime_character_cyberstyle.glb",
+      "bytes": 3370992,
+      "sha256": "c70081947bc288524ba98a7bd341f3205a87febdec84177a7f50adfef8f3f6db",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_lowpoly_anime_character_cyberstyle.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_mammoth_tank_mk_ii.glb",
+      "bytes": 1178552,
+      "sha256": "ea4fd52cf416b277b06c512465bfb1d342c356121c76ab0945e06a333692e42b",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_mammoth_tank_mk_ii.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_no_mans_sky___golden_vector.glb",
+      "bytes": 13417848,
+      "sha256": "17f88baa1fdb88de55e3dc24e216637ae2330c5fd09539376547af3a5c606bf8",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_no_mans_sky___golden_vector.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_no_mans_sky___radiant_pillar_bc1.jpg",
+      "bytes": 16166,
+      "sha256": "cfa47d59b35643c6e3991e47c9e0d6e93f646bf91383f259335565bef4720f6b",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_no_mans_sky___radiant_pillar_bc1.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_plague_doctor___bone_mask__warding_cane.jpg",
+      "bytes": 15607,
+      "sha256": "d596b45d51774bc53dad05996c8f5b2f621b04a587f82897c42b159e7723d3e3",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_plague_doctor___bone_mask__warding_cane.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_practica___texturizado_con_substance_pa.jpg",
+      "bytes": 14216,
+      "sha256": "6906b8d73b9c894ba7f91edb1395f40e25466041be7253c8ca43bf735269cd0a",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_practica___texturizado_con_substance_pa.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_rayfield_caliburn__www.vecarz.com.glb",
+      "bytes": 4826744,
+      "sha256": "c14a529ec4638a7a86cce0f76209b9e88cd2257f898a4436bb02110b4c3581ad",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_rayfield_caliburn__www.vecarz.com.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_rayfield_caliburn__www.vecarz.com.jpg",
+      "bytes": 14688,
+      "sha256": "67b4fb68dae21ec4f1fa31255da0dce27204ef22e0410f01dade0984c8716b04",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_rayfield_caliburn__www.vecarz.com.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_reachcampaignmission_6part_3_corvette.glb",
+      "bytes": 11753816,
+      "sha256": "95deb62357b915c1210342f578bc70c1946a2b9c3e9fd4c10d25d6414648c450",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_reachcampaignmission_6part_3_corvette.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_scania_truck.jpg",
+      "bytes": 19927,
+      "sha256": "411cded34f5538fbc5920cb96293a63dc4294f8f4416698d403a55986a431507",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_scania_truck.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_school_girl_v21.glb",
+      "bytes": 2399868,
+      "sha256": "63e627ac2bdb9f9121c39a59682b7904634e466c494b6f907f0799c8e6ff7a8e",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_school_girl_v21.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_school_girl_v21.jpg",
+      "bytes": 14036,
+      "sha256": "243172cd943ce5e600a1da95805ad15f0747d2cc996df494b538c0a252907135",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_school_girl_v21.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_sci_fi_motorbike_3.glb",
+      "bytes": 5830416,
+      "sha256": "0924bc1dc962045c0f4e78ab48b0779a047a136094b0d3766a6943d5fb3c56c7",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_sci_fi_motorbike_3.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_scorpion_tank_colonial_variat.jpg",
+      "bytes": 26679,
+      "sha256": "59aaf941656c7fe410e6c244bc8d975e78f6f05e337cd062cd38b87059178005",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_scorpion_tank_colonial_variat.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_shanghai_international_circuit_2018_layout.glb",
+      "bytes": 16000720,
+      "sha256": "e0d5ea55d24a041918d11a3dc878941ecdf4ef52e36434d948c6b36ed38b7a45",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_shanghai_international_circuit_2018_layout.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_spaceship.jpg",
+      "bytes": 16491,
+      "sha256": "f63a4c5ce2699bbbd8c14f15d061dc6d226fbda58039d5556f5b7184bafa6b93",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_spaceship.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_spaceship_pak_da_k_tu_1600_zvezda.jpg",
+      "bytes": 10540,
+      "sha256": "48499334c6eab93f966e24bf8716b12564db79acf97af5abd9c4ebca7d85d689",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_spaceship_pak_da_k_tu_1600_zvezda.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Stylized_Female_Futuristic_Pilot___Ferra.jpg",
+      "bytes": 26908,
+      "sha256": "a3e9400206cb93f85668190ec6011f4752e3a64714c3c3d7255f09943053894e",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Stylized_Female_Futuristic_Pilot___Ferra.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_suzuka_circuit_2001_layout.glb",
+      "bytes": 20092944,
+      "sha256": "8564b7a92f648a8955c6705215176f022d08c497773dad1f18b2e5bf3fba507f",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_suzuka_circuit_2001_layout.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Tantalus_Utility_Vessel.glb",
+      "bytes": 4068692,
+      "sha256": "9410750d48d4e0c07c4a618b47e37d34e3cbe8fa926b5fbd28429bbd0847c4e3",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Tantalus_Utility_Vessel.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Tantalus_Utility_Vessel.jpg",
+      "bytes": 17001,
+      "sha256": "105495d2230c44695729474b9df19c360cadd3b6f879a53fa7572b56ce5cafb3",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Tantalus_Utility_Vessel.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_thai_student_v9.glb",
+      "bytes": 1669368,
+      "sha256": "113b2a2500e155d4c017cc1cfe6830f7b726e19c5b1bdde74a8b795a0c45004e",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_thai_student_v9.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Ukrainian_navy_maritime_drone.jpg",
+      "bytes": 10292,
+      "sha256": "025eb0ee4e95c655a0bc8cdba2f006c8f541a9d7d37e002b424b0ddea1552cd2",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Ukrainian_navy_maritime_drone.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_uss_nomad_the_creator_spaceship_military_base.jpg",
+      "bytes": 8639,
+      "sha256": "545ca2132399d94ded75503cfbe8611738d5ae16d2999e574d4af58ee2f3f044",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_uss_nomad_the_creator_spaceship_military_base.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_vehiclesunsccapital_shipsposeidon.glb",
+      "bytes": 162904,
+      "sha256": "7d522d6d049849b970f778fbdbd9a9f0ccdef6361fba5d5c0906174eb3a32263",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_vehiclesunsccapital_shipsposeidon.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_vehiclesunsccapital_shipsposeidon.jpg",
+      "bytes": 10587,
+      "sha256": "df8e61bba7452cc0501f1b0571cce05b0c09d8de718e730ef825209a757e79ab",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_vehiclesunsccapital_shipsposeidon.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_vehiclesunsccapital_shipsstrident.jpg",
+      "bytes": 12984,
+      "sha256": "eb9d682a5b33359727f1e95492782355d68d53a8d8678a3a8bf271b3ba6ea932",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_vehiclesunsccapital_shipsstrident.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_vehiclesunsccapital_shipsvindication.jpg",
+      "bytes": 12004,
+      "sha256": "0fcb20f5507c75357abded9e48d757f7e78b403c538654754070d9974870a4ce",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_vehiclesunsccapital_shipsvindication.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_volkswagen_golf_gti_2025.glb",
+      "bytes": 18444424,
+      "sha256": "a9c18379581b728dc10ce0d5c1ff4c9d5e214da5058430e9a09e42fbf7f970c4",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_volkswagen_golf_gti_2025.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_woman_standing_v16.glb",
+      "bytes": 2537248,
+      "sha256": "888ae3d076aaed6dd5f5e183187bd03609b9ec88db6015188dc61cad2286a274",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_woman_standing_v16.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_woman_standing_v38__eko.jpg",
+      "bytes": 18789,
+      "sha256": "d41c3d2c2be2a0bc3039ea8f0ff643bdd3d2d44dc8d36327b78bfb1e13730dad",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_woman_standing_v38__eko.jpg"
+    },
+    {
+      "path": "/assets/uniforms/senac_20261009/jaleco-reference.png",
+      "bytes": 2153001,
+      "sha256": "976fd1d788cefe5232258c1b90bbc1ae3576d58ac9bc6f856e679df326433ae6",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/uniforms/senac_20261009/jaleco-reference.png"
+    },
+    {
+      "path": "/assets/uniforms/senac_20261009/nursing-crest.png",
+      "bytes": 2942745,
+      "sha256": "8f3a12406fab57a0000391277e61ee14de71641956322c2a00e1af9c8f9d420c",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/uniforms/senac_20261009/nursing-crest.png"
+    },
+    {
+      "path": "/assets/uniforms/senac_20261009/polo-reference-a.png",
+      "bytes": 2100385,
+      "sha256": "9cf3063c3f3ed0624f141f8744096e7c2ba063258881e854381c82e70bf1da4a",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/uniforms/senac_20261009/polo-reference-a.png"
+    },
+    {
+      "path": "/assets/uniforms/senac_20261009/polo-reference-b.png",
+      "bytes": 2210326,
+      "sha256": "755153e3c3c6ad810210bfed462c37bc1d1f785d027201f8c428678fc3b65cf9",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/uniforms/senac_20261009/polo-reference-b.png"
+    }
+  ],
+  "sourceModified": false
+}

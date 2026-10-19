@@ -1,0 +1,51 @@
+{
+  "sourceCredits": {},
+  "licenseStatus": "No license or attribution file in supplied OBJ folder; source provenance pending",
+  "sourceFiles": [
+    {
+      "file": "Esqueleto\\Raio X Anatomia Humana\\model_0.obj",
+      "sha256": "0fd457ed010b9878614942d62fab505a4c95d25fd6bb487c4bed9b314c793464",
+      "geometrySha256": "7ac7e2be2b14711cf96891b82d291c3f149c1ab958ab39fd340f87b110de62e0",
+      "missingMtllib": [
+        "model_0.mtl"
+      ]
+    },
+    {
+      "file": "Esqueleto\\Raio X Anatomia Humana\\model_1.obj",
+      "sha256": "0cdc735e57cf7f123aa8e406fbed4fb8b057884c876a59153a9ccf2b964131f3",
+      "geometrySha256": "35ac6c97444f68c3445c67593c13edc651584dd1751f8b1f3aae1c3277224d1d",
+      "missingMtllib": [
+        "model_1.mtl"
+      ]
+    },
+    {
+      "file": "Esqueleto\\Raio X Anatomia Humana\\model_2.obj",
+      "sha256": "4d61a0acf833691984ad1336ccb632aac7fc82f81ab0ece22d3ca953fa888730",
+      "geometrySha256": "acf98c5cad0a87e2b1c179b9e0f97debac6a91a3dcc8bdebbfdab01de2055e85",
+      "missingMtllib": [
+        "model_2.mtl"
+      ]
+    },
+    {
+      "file": "Esqueleto\\Raio X Anatomia Humana\\model_3.obj",
+      "sha256": "4619b30c36b5b74305ea72f36b54be375ff111679d5498628ccdb4b84bbf1353",
+      "geometrySha256": "532ac1befd2c912d2eb37bc9cbafdeff4f3d0a782f9fc2a25419bc92d27166b0",
+      "missingMtllib": [
+        "model_3.mtl"
+      ]
+    },
+    {
+      "file": "Esqueleto\\Raio X Anatomia Humana\\model_9.obj",
+      "sha256": "e616736e08cbfb98e1632061f316d4d3801287576e58da4a136fb6fffbf656cb",
+      "geometrySha256": "8a93a1f990dfb1842382f7fa84170d0a2f6262d0bcebb7772a109a11de85b521",
+      "missingMtllib": [
+        "model_9.mtl"
+      ]
+    }
+  ],
+  "modifications": [
+    "Uniform normalization of freshly imported static derivative only; centered horizontal origin and minimum Z=0; source geometry and files retained",
+    "Missing OBJ MTL: documented provisional part-level PBR materials; no source logos/textures copied to buses",
+    "Per-part decimation to web presentation budget; part hierarchy and source scene preserved"
+  ]
+}
