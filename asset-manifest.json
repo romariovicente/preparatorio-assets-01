@@ -68,6 +68,18 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261016/TRAIN_Centraal_Station_LOD1_20261016.glb"
     },
     {
+      "path": "/assets/additions20261019/VEH_Mercedes_AMG_One_Interactive_20261019.glb",
+      "bytes": 16863708,
+      "sha256": "1dc9d698b949193acd0b0b15c39e45cf66304cf1ed16296694db99fc5a8e5152",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261019/VEH_Mercedes_AMG_One_Interactive_20261019.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Rig_v2.glb",
+      "bytes": 3515608,
+      "sha256": "b7485ca8b45af4929a2f13597b5fab778b59795144bbba94a6d5b285eaa84833",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Rig_v2.glb"
+    },
+    {
       "path": "/assets/characters/CHR_corrupted_fallen_priest___dar_Actions_v3.glb",
       "bytes": 6147988,
       "sha256": "ec2b6485a636903a9319690397604c07b1c9ed13843057bebad99c48ceb68a53",
@@ -90,12 +102,6 @@
       "bytes": 2553576,
       "sha256": "16625e47954ba9c055efb1bfd22f29601c6e83a91e05e55eb89604cdec436739",
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_japanese_school_girl_v25_Rig_v2.glb"
-    },
-    {
-      "path": "/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Rig_v2.glb",
-      "bytes": 3515608,
-      "sha256": "b7485ca8b45af4929a2f13597b5fab778b59795144bbba94a6d5b285eaa84833",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Rig_v2.glb"
     },
     {
       "path": "/assets/characters/CHR_woman_seated_v15_Rig_v2.glb",
@@ -308,6 +314,54 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_9f5f51f18e4c487b9e4d1643ff36acd3.glb"
     },
     {
+      "path": "/assets/supplied/SUP_Clone_Human_Sleep_Module_Lab.glb",
+      "bytes": 16846868,
+      "sha256": "e141e2c29fde2496627653c9a6726431bc54d6ed34811b6fceba4ab3d8a65f3a",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Clone_Human_Sleep_Module_Lab.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Futuristic_Spaceship.jpg",
+      "bytes": 15690,
+      "sha256": "d643dc8bb8bcbdc51aa074109215b43a06230e476c4e512740b4271f7d622a65",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Futuristic_Spaceship.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Hackney_“Black_Cab_AGV.glb",
+      "bytes": 9391340,
+      "sha256": "12cf850938a127fb02b746a8538ca74bc2a9f66c3036cd9545b978cc40d0e2eb",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Hackney_“Black_Cab_AGV.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Hackney_“Black_Cab_AGV.jpg",
+      "bytes": 16451,
+      "sha256": "364a1b4eb054806b14bc168a1534bc27d8e7eb17d5dcd04bc811886f8c037492",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Hackney_“Black_Cab_AGV.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Stylized_Female_Futuristic_Pilot___Ferra.jpg",
+      "bytes": 26908,
+      "sha256": "a3e9400206cb93f85668190ec6011f4752e3a64714c3c3d7255f09943053894e",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Stylized_Female_Futuristic_Pilot___Ferra.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Tantalus_Utility_Vessel.glb",
+      "bytes": 4068692,
+      "sha256": "9410750d48d4e0c07c4a618b47e37d34e3cbe8fa926b5fbd28429bbd0847c4e3",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Tantalus_Utility_Vessel.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Tantalus_Utility_Vessel.jpg",
+      "bytes": 17001,
+      "sha256": "105495d2230c44695729474b9df19c360cadd3b6f879a53fa7572b56ce5cafb3",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Tantalus_Utility_Vessel.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Ukrainian_navy_maritime_drone.jpg",
+      "bytes": 10292,
+      "sha256": "025eb0ee4e95c655a0bc8cdba2f006c8f541a9d7d37e002b424b0ddea1552cd2",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Ukrainian_navy_maritime_drone.jpg"
+    },
+    {
       "path": "/assets/supplied/SUP_apc_at6.jpg",
       "bytes": 17935,
       "sha256": "32eb5d8c599fd26b49edfd6d37ea7abec2ce3811c2a6abb268c93d99a1beb6e6",
@@ -360,12 +414,6 @@
       "bytes": 4427184,
       "sha256": "05cf4b38cb76a5acd9c7257eaebf1aaa859188284dc53976b61dd4709b107430",
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_city_at_night_low_poly_skyscrapers.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Clone_Human_Sleep_Module_Lab.glb",
-      "bytes": 16846868,
-      "sha256": "e141e2c29fde2496627653c9a6726431bc54d6ed34811b6fceba4ab3d8a65f3a",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Clone_Human_Sleep_Module_Lab.glb"
     },
     {
       "path": "/assets/supplied/SUP_club_car_cru.glb",
@@ -462,24 +510,6 @@
       "bytes": 16285,
       "sha256": "b8147283bee24b6b358891c372b99f9266dec7cf029038f716b4c7c2dfb625a3",
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_futuristic_hover_car.jpg"
-    },
-    {
-      "path": "/assets/supplied/SUP_Futuristic_Spaceship.jpg",
-      "bytes": 15690,
-      "sha256": "d643dc8bb8bcbdc51aa074109215b43a06230e476c4e512740b4271f7d622a65",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Futuristic_Spaceship.jpg"
-    },
-    {
-      "path": "/assets/supplied/SUP_Hackney_“Black_Cab_AGV.glb",
-      "bytes": 9391340,
-      "sha256": "12cf850938a127fb02b746a8538ca74bc2a9f66c3036cd9545b978cc40d0e2eb",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Hackney_“Black_Cab_AGV.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Hackney_“Black_Cab_AGV.jpg",
-      "bytes": 16451,
-      "sha256": "364a1b4eb054806b14bc168a1534bc27d8e7eb17d5dcd04bc811886f8c037492",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Hackney_“Black_Cab_AGV.jpg"
     },
     {
       "path": "/assets/supplied/SUP_halo_4spartan_opsmission_9_infinity.glb",
@@ -626,40 +656,16 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_spaceship_pak_da_k_tu_1600_zvezda.jpg"
     },
     {
-      "path": "/assets/supplied/SUP_Stylized_Female_Futuristic_Pilot___Ferra.jpg",
-      "bytes": 26908,
-      "sha256": "a3e9400206cb93f85668190ec6011f4752e3a64714c3c3d7255f09943053894e",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Stylized_Female_Futuristic_Pilot___Ferra.jpg"
-    },
-    {
       "path": "/assets/supplied/SUP_suzuka_circuit_2001_layout.glb",
       "bytes": 20092944,
       "sha256": "8564b7a92f648a8955c6705215176f022d08c497773dad1f18b2e5bf3fba507f",
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_suzuka_circuit_2001_layout.glb"
     },
     {
-      "path": "/assets/supplied/SUP_Tantalus_Utility_Vessel.glb",
-      "bytes": 4068692,
-      "sha256": "9410750d48d4e0c07c4a618b47e37d34e3cbe8fa926b5fbd28429bbd0847c4e3",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Tantalus_Utility_Vessel.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Tantalus_Utility_Vessel.jpg",
-      "bytes": 17001,
-      "sha256": "105495d2230c44695729474b9df19c360cadd3b6f879a53fa7572b56ce5cafb3",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Tantalus_Utility_Vessel.jpg"
-    },
-    {
       "path": "/assets/supplied/SUP_thai_student_v9.glb",
       "bytes": 1669368,
       "sha256": "113b2a2500e155d4c017cc1cfe6830f7b726e19c5b1bdde74a8b795a0c45004e",
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_thai_student_v9.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Ukrainian_navy_maritime_drone.jpg",
-      "bytes": 10292,
-      "sha256": "025eb0ee4e95c655a0bc8cdba2f006c8f541a9d7d37e002b424b0ddea1552cd2",
-      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/supplied/SUP_Ukrainian_navy_maritime_drone.jpg"
     },
     {
       "path": "/assets/supplied/SUP_uss_nomad_the_creator_spaceship_military_base.jpg",
