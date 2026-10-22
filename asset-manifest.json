@@ -74,6 +74,12 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261019/VEH_Mercedes_AMG_One_Interactive_20261019.glb"
     },
     {
+      "path": "/assets/characters/CHR_Remy_White_Uniform_Surface_Source_20261022.glb",
+      "bytes": 38959400,
+      "sha256": "59562fa88343496dc841980dd8c612fd9204dba00acd5b6df6abbb9ef739da5f",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_Remy_White_Uniform_Surface_Source_20261022.glb"
+    },
+    {
       "path": "/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Rig_v2.glb",
       "bytes": 3515608,
       "sha256": "b7485ca8b45af4929a2f13597b5fab778b59795144bbba94a6d5b285eaa84833",
@@ -114,6 +120,12 @@
       "bytes": 2392548,
       "sha256": "9eed76dd881343ee5b1307a035c168f0a6debc591b6808660f6902bf32118bdf",
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/CHR_woman_standing_v38__eko_Rig_v2.glb"
+    },
+    {
+      "path": "/assets/characters/runtime/CHR_Remy_White_Uniform_Surface_Web_20261022.glb",
+      "bytes": 13828192,
+      "sha256": "5458649922a05373c8de30bed73347d28343ed3b891ae982eb087fb45352a2ee",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/characters/runtime/CHR_Remy_White_Uniform_Surface_Web_20261022.glb"
     },
     {
       "path": "/assets/cyber/CHR_PREP_Nurse_Coat_20261005.glb",

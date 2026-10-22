@@ -152,11 +152,13 @@ Hospital 03: CC BY-NC-SA 4.0, apenas uso não comercial e derivação sob a mesm
 - Alterações: Static mesh batching/reduction where applicable; textures capped at 1024 px; JPEG export. Original pose/rig retained.
 
 ## Character Cyberpunk FREE 3d By Oscar Creativo
-- Arquivo: `/assets/supplied/SUP_character_cyberpunk_free_3d_by_oscar_cre_BodyRig.glb`
+- Fonte preservada: `art/source/SUP_character_cyberpunk_free_3d_by_oscar_cre_BodyRig_armed_archived.glb`
+- Derivado civil preservado: `/assets/supplied/SUP_character_cyberpunk_free_3d_by_oscar_cre_Civilian_v1.glb`
+- Derivado jogável: `/assets/characters/CHR_Cyberpunk_Remy_Retarget_20261022_v2.glb`
 - Autor: OSCAR CREATIVO (https://sketchfab.com/oscar_creativo)
 - Origem: https://sketchfab.com/3d-models/character-cyberpunk-free-3d-by-oscar-creativo-45469e72f0e04bd5bfbca71696dda0aa
 - Licença: CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
-- Alterações: Static mesh batching/reduction where applicable; textures capped at 1024 px; JPEG export. Original pose/rig retained. Removed only morph targets unused by both default weights and every animation sample from runtime derivative; full morph GLB preserved in art/source/preserved_full_morphs. Active facial and skeletal animation retained.
+- Alterações: rig original preservado; malhas da arma removidas no derivado civil; braço direito abaixado por espelhamento matricial da pose esquerda; escala de 1,70 m; Idle e Walk adaptados dos clipes Mixamo do Remy no Blender; contato dos pés corrigido e reimportado; morphs faciais congelados na amostra inicial. Fontes e movimentos anteriores preservados separadamente. A licença CC-BY-NC-4.0 permanece aplicável aos derivados.
 
 ## Charité University Hospital - Operating Room
 - Arquivo: `/assets/supplied/SUP_charite_university_hospital___operating_room.glb`
@@ -1060,3 +1062,10 @@ Hospital 03: CC BY-NC-SA 4.0, apenas uso não comercial e derivação sob a mesm
 - Origem: https://sketchfab.com/3d-models/yas-marina-circuit-abu-dhabi-2021-layout-c41b4e19912b4d79886bcd8d7d2536af
 - Licença: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 - Alterações: Static mesh batching/reduction where applicable; textures capped at 1024 px; JPEG export. Original pose/rig retained.
+
+## Oak trees pack (17var, LODs, seasons, gameready)
+- Arquivo derivado: `/assets/environment/runtime/ENV_Oak_Small_001_LOD0_20261021.glb`
+- Autor: LOLIPOP (https://sketchfab.com/lolipop_1707)
+- Origem: https://sketchfab.com/3d-models/oak-trees-pack-17var-lods-seasons-gameready-a5e4e64f9f1d4089bdcc6170a9333393
+- Licença: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+- Alterações: foi extraída somente a hierarquia `Small_oak_tree__001_LOD0`; o objeto foi centralizado e apoiado em Z=0; texturas incorporadas foram limitadas a 1024 px. O arquivo-fonte permanece intacto fora da distribuição pública.
