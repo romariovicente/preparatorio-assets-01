@@ -762,6 +762,18 @@
       "bytes": 2210326,
       "sha256": "755153e3c3c6ad810210bfed462c37bc1d1f785d027201f8c428678fc3b65cf9",
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/uniforms/senac_20261009/polo-reference-b.png"
+    },
+    {
+      "path": "/assets/vehicles/trucks/TRUCK_scania_interactive_20261103.glb",
+      "bytes": 26469644,
+      "sha256": "efdebf33981223e661268a3355b1b49902caccac4205859a8b24cf7e89af7a9c",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/vehicles/trucks/TRUCK_scania_interactive_20261103.glb"
+    },
+    {
+      "path": "/assets/vehicles/trucks/TRUCK_volvo_concept_interactive_20261103.glb",
+      "bytes": 7339292,
+      "sha256": "0f761dba328a61c6acaa16c6a42080bb23f177e081e7b6bca9973c9ce83ba483",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/vehicles/trucks/TRUCK_volvo_concept_interactive_20261103.glb"
     }
   ],
   "sourceModified": false
