@@ -74,6 +74,12 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/additions20261019/VEH_Mercedes_AMG_One_Interactive_20261019.glb"
     },
     {
+      "path": "/assets/buildings/BLD_Oficina_Publica_PREP_20261111.glb",
+      "bytes": 252332,
+      "sha256": "7b5f5114d3e5834f794631f02e5191a350083b16d404fc118f0f7c1a266a56f9",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/buildings/BLD_Oficina_Publica_PREP_20261111.glb?v=7b5f5114d3e5834f794631f02e5191a350083b16d404fc118f0f7c1a266a56f9"
+    },
+    {
       "path": "/assets/characters/CHR_Alchemist_Anime_Retarget_20261022.glb",
       "bytes": 5828920,
       "sha256": "4aa6a55dd0e3fff2f3ee507544988004177befc3b9b9fd0e26e3e4cc245378f0",
