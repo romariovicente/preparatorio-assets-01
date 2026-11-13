@@ -302,6 +302,12 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/new-delivery/EDU_Anatomy_XRay_20261006.LICENSE.txt"
     },
     {
+      "path": "/assets/props/PROP_TV_Recepcao_PREP.glb",
+      "bytes": 4860712,
+      "sha256": "9d10ff6ef882a1949779a55cab7d9347c3cdd69342e215d853747169d17384d5",
+      "url": "https://romariovicente.github.io/preparatorio-assets-01/assets/props/PROP_TV_Recepcao_PREP.glb?v=9d10ff6ef882a1949779a55cab7d9347c3cdd69342e215d853747169d17384d5"
+    },
+    {
       "path": "/assets/supplied/SUP_2010_mercedes_sls_amg.glb",
       "bytes": 10404120,
       "sha256": "0a7d0012bfd24ac60fc5afa2ff8dd45146a5ebd1ddb1e577fa0777f5c6a47f1f",
